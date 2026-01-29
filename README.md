@@ -52,9 +52,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-**Option 1: Lovable**
-
-Open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click Share -> Publish.
+**Option 1: **
 
 **Option 2: Vercel (from GitHub)**
 
@@ -66,8 +64,6 @@ Open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click S
 6. Click **Deploy**. Vercel will build and give you a live URL (e.g. `your-project.vercel.app`).
 7. For a custom domain: in the project, go to **Settings** -> **Domains** and add your domain.
 8. Future pushes to the connected branch will trigger new deployments automatically.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
